@@ -1,0 +1,7 @@
+# LOGIN_BEST_SCREEN
+Here the data is being stored in side the app using sharedPreference 
+
+![74836793_550614745723962_3117437630241832960_n](https://user-images.githubusercontent.com/46280184/68607192-f5510a80-04a7-11ea-9133-9e76327929e2.jpg)
+![75625330_550383242416445_8013084698479689728_n](https://user-images.githubusercontent.com/46280184/68607194-f5e9a100-04a7-11ea-9768-52563805756a.jpg)
+![76964482_419981915354161_199211123038224384_n](https://user-images.githubusercontent.com/46280184/68607195-f5e9a100-04a7-11ea-90bb-d26bfa2011c9.jpg)
+![74272423_2377195515830425_5741304340451164160_n](https://user-images.githubusercontent.com/46280184/68607196-f5e9a100-04a7-11ea-94fb-286fd2ee3631.jpg)
